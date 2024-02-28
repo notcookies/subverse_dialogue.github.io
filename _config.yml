@@ -9,4 +9,4 @@ trailing_index: true # Set to false to remove trailing index.html from permalink
 ## Docs: https://hexo.io/docs/one-command-deploymentdeploy:
 type: git
 repo: git@github.com:notcookies/subversedialogue.github.io.git
-branch: master
+branch: main
