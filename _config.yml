@@ -1,12 +1,6 @@
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://subversedialogue.github.io
-root: /
-permalink_defaults:
-pretty_urls:
-trailing_index: true # Set to false to remove trailing index.html from permalinks
-# Deployment
-## Docs: https://hexo.io/docs/one-command-deploymentdeploy:
 type: git
 repo: git@github.com:notcookies/subversedialogue.github.io.git
 branch: main
